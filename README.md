@@ -1,3 +1,3 @@
 # GFVerticalViewPagerBase
-Android Vertical ViewPager with some PageTransformer.<br />
+Android Vertical ViewPager.<br />
 It works with getPageWidth from PagerAdapter.
